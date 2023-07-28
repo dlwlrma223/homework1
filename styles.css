@@ -33,10 +33,10 @@ body {
   color: red;
 }
 
-#linkdown {
+.linkdown {
   color: rgb(81, 247, 153);
 }
-#linkdown:hover {
+.linkdown:hover {
   color: antiquewhite;
 }
 
@@ -53,4 +53,64 @@ body {
 h1 {
   border: solid 5px green;
   padding: 14px;
+}
+
+p1 {
+  border: 1px solid black;
+  color: green;
+  background-color: black;
+  border-radius: 3px;
+  padding: 14px;
+  font-size: 18px;
+  margin: 15px;
+}
+
+p2 {
+  border: 1px solid green;
+  color: black;
+  background-color: green;
+  border-radius: 3px;
+  padding: 14px;
+  font-size: 18px;
+  margin: 15px;
+}
+
+p3 {
+  border: 1px solid rgb(1, 44, 1);
+  color: black;
+  background-color: rgb(1, 44, 1);
+  border-radius: 3px;
+  padding: 14px;
+  font-size: 18px;
+  margin: 15px;
+}
+
+p4 {
+  border: 1px solid rgb(37, 5, 164);
+  color: black;
+  background-color: rgb(37, 5, 164);
+  border-radius: 3px;
+  padding: 14px;
+  font-size: 18px;
+  margin: 15px;
+}
+
+p5 {
+  border: 1px solid yellow;
+  color: black;
+  background-color: yellow;
+  border-radius: 3px;
+  padding: 14px;
+  font-size: 18px;
+  margin: 15px;
+}
+
+p6 {
+  border: 1px solid red;
+  color: black;
+  background-color: red;
+  border-radius: 3px;
+  padding: 14px;
+  font-size: 18px;
+  margin: 15px;
 }
