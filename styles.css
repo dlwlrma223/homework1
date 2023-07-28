@@ -1,3 +1,56 @@
-h1 {
+h1,
+.green,
+h5,
+#order,
+#article {
   color: green;
+}
+
+#table {
+  border: solid;
+}
+
+h1,
+#intro {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#footer h3 {
+  color: red;
+}
+
+#footer p {
+  color: yellow;
+  background-color: grey;
+  opacity: 0.5;
+}
+
+body {
+  background-color: rgb(4, 4, 4);
+}
+
+#form {
+  color: red;
+}
+
+#linkdown {
+  color: rgb(81, 247, 153);
+}
+#linkdown:hover {
+  color: antiquewhite;
+}
+
+#header h1 {
+  text-align: center;
+}
+#intro {
+  text-align: center;
+}
+#header {
+  background-image: url(https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=996&t=st=1690504058~exp=1690504658~hmac=14fc3e650ed819bbb8e2e8f8e5b6ebf5d78c76bc9ca5e35224031d08db05da87);
+}
+
+h1 {
+  border: solid 5px green;
+  padding: 14px;
 }
